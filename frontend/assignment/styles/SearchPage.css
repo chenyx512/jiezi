@@ -1,0 +1,4 @@
+.search-choice-container {
+    display: flex;
+    flex-direction: row;
+}
